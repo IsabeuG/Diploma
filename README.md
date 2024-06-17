@@ -91,6 +91,7 @@ To run unit tests using Mockito:
 ```sh
 ./mvnw test
 
-To run integrations tests
+To run integrations tests:
 
+```sh
 ./mvnw integration-test

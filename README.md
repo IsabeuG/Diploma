@@ -86,12 +86,8 @@ The application should now be running at http://localhost:8080.
 
 ### Unit Tests
 
-To run unit tests using Mockito:
-
 ```sh
 ./mvnw test
-
-To run integrations tests:
 
 ```sh
 ./mvnw integration-test
